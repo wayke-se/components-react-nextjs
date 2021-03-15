@@ -1,0 +1,28 @@
+{
+  "name": "wayke-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teroqim/wayke-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teroqim/wayke-test/issues"
+  },
+  "homepage": "https://github.com/teroqim/wayke-test#readme",
+  "dependencies": {
+    "@wayke-se/components-react": "^1.9.0",
+    "next": "^10.0.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.1"
+  }
+}
